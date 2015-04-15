@@ -1,4 +1,4 @@
-var HTTP = require("http")
+/*var HTTP = require("http")
 
 var express = require("express"),
     bodyParser = require("body-parser"),
@@ -29,5 +29,5 @@ var locationSchema = mongoose.Schema({
 })
 
 var Location = mongoose.model("Location", locationSchema)
-
+*/
 alert("Done")
