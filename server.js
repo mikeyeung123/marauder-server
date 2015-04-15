@@ -30,4 +30,4 @@ var locationSchema = mongoose.Schema({
 
 var Location = mongoose.model("Location", locationSchema)
 */
-alert("Done")
+console.log("Done")
